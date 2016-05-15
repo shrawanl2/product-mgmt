@@ -1,0 +1,24 @@
+{
+  "name": "productmgmt",
+  "version": "0.0.1",
+  "description": "Product Management System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrawanl2/product-mgmt.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Shrawan Lakhe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrawanl2/product-mgmt/issues"
+  },
+  "homepage": "https://github.com/shrawanl2/product-mgmt#readme"
+}
